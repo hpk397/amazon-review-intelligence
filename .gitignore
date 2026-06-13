@@ -1,0 +1,6 @@
+data/Cell_Phones_and_Accessories_5.json
+data/amazon_reviews.json
+model/*.pkl
+__pycache__/
+*.pyc
+data/amazon_reviews.json
